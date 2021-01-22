@@ -133,5 +133,8 @@
       }
     }
   },
-  "defaultProject": "mean-stack-crud-app"
+  "defaultProject": "mean-stack-crud-app",
+  "cli": {
+    "analytics": false
+  }
 }
