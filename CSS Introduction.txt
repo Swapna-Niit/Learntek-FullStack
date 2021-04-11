@@ -1,0 +1,45 @@
+CSS Cascading Style Sheet
+
+CSS3
+
+CSS is used to make over the html pages with different styles to make it 
+attractive
+
+Style of an HTML document
+it will describe how HTML elements should be displayed
+
+
+CSS can be applied in three ways
+
+Inline CSS => style attribute => <p style="color:red;">This is a paragraph</p>
+Internal CSS => style tag =>
+<head> tag contains style tag
+External CSS
+
+Types of CSS selectors
+
+tag selector (it is used to style all tags <p>)
+id selector (individual html element)
+class selector (group of html elements)
+
+In box model
+
+Content:
+where HTML element appears(result of html tag)
+
+Padding:
+clear area aroung the content and padding is transparent
+
+Border
+
+space after the padding
+
+Margin
+
+
+outside the border and transparent
+
+
+/* auto - browser calculates the padding or margin */
+
+/* short hand property for declaring the margin for t r b l*/
